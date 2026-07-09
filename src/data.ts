@@ -166,26 +166,6 @@ export const SERVICES: Service[] = [
     imageSrc: "https://i.imgur.com/1lSjXWN.jpeg",
   },
 
-  // --- JACUZZI ---
-  {
-    id: "jacuzzi-solo",
-    name: "Bain Jacuzzi Hydro-Massant (Solo)",
-    category: "Rituels Jacuzzi",
-    description: "Profitez en toute intimité de notre jacuzzi de luxe avec buses de massage, chromothérapie apaisante, sels parfumés et thé de bienvenue offert.",
-    durationMin: 45,
-    priceFCFA: 15000,
-    imageSrc: "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=600&auto=format&fit=crop",
-  },
-  {
-    id: "jacuzzi-complice-duo",
-    name: "Rituel Jacuzzi Plaisir Complice (Duo)",
-    category: "Rituels Jacuzzi",
-    description: "Espace privatisé pour deux. Bain à remous parfumé, plateau de fruits exotiques de saison, nectars de fruits rafraîchissants et bougies d'ambiance.",
-    durationMin: 60,
-    priceFCFA: 35000,
-    imageSrc: "https://images.unsplash.com/photo-1612817288484-6f916006741a?q=80&w=600&auto=format&fit=crop",
-  },
-
   // --- MANUCURE / PEDICURE / ONGLES ---
   {
     id: "manucure-pedicure",

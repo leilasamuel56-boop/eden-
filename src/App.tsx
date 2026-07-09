@@ -968,11 +968,6 @@ Merci de me recontacter pour planifier mon moment d'exception !`;
                       <option key={s.id} value={s.id}>{s.name} ({s.priceFCFA.toLocaleString("fr-FR")} FCFA)</option>
                     ))}
                   </optgroup>
-                  <optgroup label="Rituels Jacuzzi">
-                    {SERVICES.filter((s) => s.category === "Rituels Jacuzzi").map((s) => (
-                      <option key={s.id} value={s.id}>{s.name} ({s.priceFCFA.toLocaleString("fr-FR")} FCFA)</option>
-                    ))}
-                  </optgroup>
                   <optgroup label="Beauté Pieds & Mains">
                     {SERVICES.filter((s) => s.category === "Beauté Pieds & Mains").map((s) => (
                       <option key={s.id} value={s.id}>{s.name} ({s.priceFCFA.toLocaleString("fr-FR")} FCFA)</option>
