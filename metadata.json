@@ -1,0 +1,6 @@
+{
+  "name": "Eden SPA Ouaga",
+  "description": "Site vitrine et système de réservation WhatsApp haut de gamme pour l'institut de bien-être Eden SPA Ouaga à Ouagadougou, Burkina Faso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
